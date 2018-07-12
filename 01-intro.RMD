@@ -9,7 +9,7 @@
 Go to https://storymaps.arcgis.com/ 
 
 Click on the **Sign In** icon on the top right corner to sign in or create a free account
-![Step1 - Log in] (G:/My Drive/Instruction/ESRI Story Maps/LibGuide pics/Step1.png)
+![Step1 - Log in] (https://github.com/Data-Cat/StoryMaps/blob/master/Step1.png)
 
 Log in using your @UNLV Google account
 ![Step1a - Log in] (G:/My Drive/Instruction/ESRI Story Maps/LibGuide pics/Step1a.png)
