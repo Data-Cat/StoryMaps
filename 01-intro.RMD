@@ -1,24 +1,35 @@
-# File 1 - Getting started
 # ESRI Story Maps
 ## Hilla Sang
 ## Data Visualization & GIS Specialist
 ### Hilla.Sang@UNLV.edu
 
-# Getting Started
+# Step 1: Getting Started
 
 Go to https://storymaps.arcgis.com/ 
 
 Click on the **Sign In** icon on the top right corner to sign in or create a free account
 ![Step1 - Log in](https://github.com/Data-Cat/StoryMaps/blob/master/Step1.png)
 
+
+
+
 Log in using your @UNLV Google account
 ![Step1a - Log in](https://github.com/Data-Cat/StoryMaps/blob/master/Step1a.png)
+
+
+
 
 Scroll down a little bit until you reach a new section with the option “CREATE STORY”
 ![Step1b - Create Story](https://github.com/Data-Cat/StoryMaps/blob/master/Step1b.png)
 
+
+
+
 Select **MAP JOURNAL**
 ![Step1c - Select MAP JOURNAL](https://github.com/Data-Cat/StoryMaps/blob/master/Step1c.png)
+
+
+
 
 Select **SIDE PANEL** and click **START**
 ![Step1dc - Side Panel](https://github.com/Data-Cat/StoryMaps/blob/master/Step1d.png)
