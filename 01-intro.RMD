@@ -8,7 +8,7 @@
 Go to https://storymaps.arcgis.com/ 
 
 Click on the **Sign In** icon on the top right corner to sign in or create a free account
-![Step1 - Log in](https://github.com/Data-Cat/StoryMaps/blob/master/Step1.png)
+![Step1 - Log in](d2ba06eb13c7bf2c4227688526c459cf154d945d)
 
 
 
